@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FF424242</item>
+        <item name="colorPrimaryDark">#FF000000</item>
+        <item name="colorAccent">#FFAB40</item>
+        <item name="cardViewStyle">@style/CardView.Light</item>
+    </style>
+
+    <style name="PrimaryFlatButton" parent="Theme.AppCompat.Light">
+        <item name="android:buttonStyle">@style/Widget.AppCompat.Button.Borderless.Colored</item>
+        <item name="colorAccent">#FFAB40</item>
+    </style>
+<style name="Dialog" parent="android:Theme.Material.Dialog.Presentation">
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowFullscreen">true</item>
+    <item name="android:windowIsFloating">true</item>
+</style>
+    <style name="CategoryTab" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">#FFAB40</item>
+        <item name="tabIndicatorHeight">2dp</item>
+        <item name="tabPaddingStart">8dp</item>
+        <item name="tabPaddingEnd">8dp</item>
+        <item name="tabBackground">?attr/selectableItemBackground</item>
+        <item name="tabTextAppearance">@style/TabTextAppearance</item>
+        <item name="tabSelectedTextColor">#FFAB40</item>
+    </style>
+    <style name="TabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#A8A19E</item>
+        <item name="textAllCaps">true</item>
+    </style>
+
+    <style name="TextLable">
+        <item name="android:textColorHint">#ffffff</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#e4e4e4">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/delete_prompt"
+        android:fontFamily="sans-serif-smallcaps"
+        android:textSize="20sp"
+        android:layout_margin="20dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:gravity="end">
+        <Button
+            android:id="@+id/cancel"
+            android:theme="@style/PrimaryFlatButton"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/cancle" />
+        <Button
+            android:id="@+id/delete"
+            android:theme="@style/PrimaryFlatButton"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="25dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/delete"/>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">VIT Events</string>
+    <string name="link">Link</string>
+    <string name="description">Description</string>
+    <string name="student_organizer">Student organizer</string>
+    <string name="faculty_organizer">Faculty organizer</string>
+    <string name="guest_speaker">Guest Speaker</string>
+    <string name="time">hh:mm aa</string>
+    <string name="school">School</string>
+    <string name="venue">Venue</string>
+    <string name="title">Title</string>
+    <string name="event_type">Event Type :</string>
+    <string name="fees">Fees</string>
+    <string name="add_event">Add Event</string>
+    <string name="date">dd/MM/yyyy</string>
+
+
+    <string-array name="event">
+        <item>Seminar</item>
+        <item>Conference</item>
+        <item>Workshop</item>
+    </string-array>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid (use vit email only)</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+    <string name="Time">Time</string>
+    <string name="club_chapter">Club/Chapter</string>
+    <string name="Date">Date</string>
+    <string name="Organizer">Organizer</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="add">Add</string>
+    <string name="add_poster">Add Poster</string>
+    <string name="delete">Delete</string>
+    <string name="update_changes">Update Changes</string>
+    <string name="forget_password">Forget password</string>
+    <string name="new_user_register">New User? Register</string>
+    <string name="about">About</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="location">Venue</string>
+    <string name="call">Call</string>
+    <string name="edit_event">Edit Event</string>
+    <string name="delete_event">Delete Event</string>
+    <string name="join">Join</string>
+    <string name="add_to_calender">Add to calender</string>
+    <string name="view_poster">view Poster</string>
+    <string name="delete_prompt">Do you want to delete the Event ?</string>
+    <string name="cancle">Cancel</string>
+    <string name="enter_the_registered_email">Enter the Registered Email</string>
+    <string name="reset">Reset</string>
+    <string name="poster">Poster</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="fee">Fee :</string>
+    <string name="loading">Loading ....</string>
+
+</resources>

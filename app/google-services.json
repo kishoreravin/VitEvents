@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1063993116611",
+    "firebase_url": "https://vitevents-5867a.firebaseio.com",
+    "project_id": "vitevents-5867a",
+    "storage_bucket": "vitevents-5867a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063993116611:android:82a3c75400a0d179",
+        "android_client_info": {
+          "package_name": "com.example.acer.vitevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063993116611-mbnimevn8ignklccpj7lvrg2f01pbcg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.vitevents",
+            "certificate_hash": "5b3717de7134a880c2663d22d38e128ad59739ea"
+          }
+        },
+        {
+          "client_id": "1063993116611-8dhb4bkifa00irkm8u4gi5po5mk62omd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbHGtOQIhapKNYvv9E4RuAhRLv9eRMG_w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063993116611-8dhb4bkifa00irkm8u4gi5po5mk62omd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
